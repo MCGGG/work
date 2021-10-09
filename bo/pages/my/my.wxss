@@ -1,0 +1,6 @@
+page{
+    height: 100%;
+}
+.rulepage{
+    height: 100%;
+}
